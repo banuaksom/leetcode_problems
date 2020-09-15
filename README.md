@@ -1,5 +1,5 @@
 # Leetcode Problems Solutions
 
-## Languages: 
+**Languages:**
 * Python
 * JavaScript
