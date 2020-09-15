@@ -1,1 +1,5 @@
-# leetcode_problems
+# Leetcode Problems Solutions
+
+## Languages: 
+* Python
+* JavaScript
